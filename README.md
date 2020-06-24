@@ -1,5 +1,9 @@
 # gatsby-plugin-cnzz
+
 Add CNZZ Analytics to your Gatsby site.
+
+![npm](https://img.shields.io/npm/v/gatsby-plugin-cnzz)
+
 
 ## Install
 
