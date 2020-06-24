@@ -20,7 +20,7 @@
     "analytics"
   ],
   "author": "Shen-Yu <shenyu@hotmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Shen-Yu/gatsby-plugin-cnzz/issues"
   },
