@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-cnzz",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "cnzz analytics for gatsby site",
   "main": "index.js",
   "scripts": {
