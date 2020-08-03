@@ -3,6 +3,7 @@
 Add CNZZ Analytics to your Gatsby site.
 
 ![npm](https://img.shields.io/npm/v/gatsby-plugin-cnzz)
+![npm](https://img.shields.io/npm/dt/gatsby-plugin-cnzz)
 
 
 ## Install
