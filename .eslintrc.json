@@ -16,11 +16,8 @@
         "ecmaVersion": 2016,
         "sourceType": "module"
     },
-    "plugins": [
-        "prettier"
-    ],
+    "plugins": [],
     "rules": {
-        "prettier/prettier": "error",
         "linebreak-style": [
             "off",
             "windows"
